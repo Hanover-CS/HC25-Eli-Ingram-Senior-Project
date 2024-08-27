@@ -14,3 +14,4 @@
 * Interest Area: Student Philanthropy
 * Campus Philanthropy Forum
 * An app for campus community to communicate philanthropic opportunities
+* Allows users to make posts, reply to others' posts, and message other users. Utilizes a user-friendly interface, that is visually interesting. No ads, or annoying bots like Facebook. 
