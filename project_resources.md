@@ -30,3 +30,7 @@
 ## Technology
 
 ###
+
+
+
+~ Note: Look into Progressive Web Apps
