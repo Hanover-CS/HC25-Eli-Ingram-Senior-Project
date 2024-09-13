@@ -36,7 +36,7 @@ Phaser
 
 ### Alternative Technology
 
-### Similar Solutions
+## Similar Solutions
 1) Capybara Quest:
 Capybara Quest (1) is a web-based platformer game in which the user navigates through the map to collect the yuzu fruit. There are enemies present that, when interacted with too closely, will result in restarting the level. There is no capability to destroy enemies, as capybaras are peaceful creatures. I want to implement a similar system, in which players are unable to damage enemies, but enemies are able to hinder the player's progress. Capybara Quest also utilizes cute pixel art and a simple background/platform theme, making it simple and effective at setting a tone for the game. 
 
