@@ -16,7 +16,7 @@ KittyQuest is a simple pixel-art-based platformer, in which the player embarks o
 * **Menu**: provides users with a way to continue progress made previously, and choose customizable features
 * **Levels**: offering a selection of levels will give more variety to the gameplay experience
 * **Checkpoints**: offers users with helpful hints and tips throughout gameplay
-* **nemies/Hazards**: creates a more difficult and interesting experience
+* **Enemies/Hazards**: creates a more difficult and interesting experience
 * **Collectibles**: offers some guidance to where endpoint is located
 * **Score Tally**: allows users to gauge their progress on the current level
 * **Endpoint**: the levels have to end somewhere
