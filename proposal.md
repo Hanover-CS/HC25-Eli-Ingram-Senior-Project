@@ -23,18 +23,30 @@ KittyQuest is a simple pixel-art-based platformer, in which the player embarks o
 
 ## Technology
 **IDE**
-Webstorm by IntelliJ: 
-
+WebStorm by IntelliJ: 
+WebStorm is an integrated development environment (IDE) by JetBrains. It includes everything necessary for JavaScript and TypeScript development, making it a practical choice for my project. IntelliJ, like WebStorm, is also made by JetBrains. In previous courses, I have utilized IntelliJ extensively so it makes sense to stick with an IDE similar to one I have experience with. 
 
 **Language**
-JavaScript
+JavaScript:
+JavaScript is a very popular interpreted scripting language that is utilized by nearly every website, making it practical for a web application. Due to its popularity, there is extensive documentation online and some even recommend it for children who are learning programming. Many popular games like 2048 and Bejeweled are written in JavaScript.
 
 
 **Libraries/Frameworks**
-Phaser
-
+Phaser: 
+An open-source, free framework that provides powerful and practical suites of game development tools. It is a very popular framework for game development in Javascript with a thriving online community, so it has ample documentation available. Phaser offers version control and project management tools, which help to streamline and optimize the development process. 
 
 ### Alternative Technology
+**Language** 
+TypeScript: 
+TypeScript is a statically typed superset of JavaScript developed by Microsoft. The main difference that made me choose JavaScript over TypeScript was that TypeScript is more focused on larger, enterprise-level projects. TypeScript is also generally harder to learn than JavaScript. 
+
+**Frameworks**
+Pixi.js: 
+I strongly considered using Pixi.js as my framework, but it typically has to be used in conjunction with other frameworks like Phaser and Three.js. I thought it would be better to utilize one framework that provides everything I need instead of multiple frameworks to supplement one another. 
+
+**Deployment Platform** 
+Web App: 
+In my research, I found that web applications are just easier and quicker to build. There is also a universality that web apps are able to provide by working on virtually every platform, device, and system version. In short - it seemed like a more practical and universal choice. 
 
 ## Similar Solutions
 1) Capybara Quest:
