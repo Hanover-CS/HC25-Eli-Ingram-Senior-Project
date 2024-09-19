@@ -18,3 +18,6 @@ This tutorial is meant to teach readers how to set up alternative input style fo
 * WebStorm or an alternative IDE installed
 * Basic understanidng of how to use an IDE
 * Completion of [Getting Started with Phaser 3](https://phaser.io/tutorials/getting-started-phaser3/)
+
+
+**Links to previous/next pages**
