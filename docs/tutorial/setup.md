@@ -1,7 +1,7 @@
 # Setup
 
 ### Step 1: Complete 'Getting Started with Phaser'
-- Complete all the steps to this walkthrough.
+- Complete all the steps to [this walkthrough](https://phaser.io/tutorials/getting-started-phaser3).
 - Note that part of the walkthrough involves choosing an editor. You are free to choose whichever you would like, but for simplicity I recommend using WebStorm as that is what I am using to create this tutorial.
 
 
