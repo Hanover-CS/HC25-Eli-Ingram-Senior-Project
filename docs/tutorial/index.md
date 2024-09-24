@@ -20,4 +20,4 @@ This tutorial is meant to teach readers how to set up alternative input style fo
 * Completion of [Getting Started with Phaser 3](https://phaser.io/tutorials/getting-started-phaser3/)
 
 
-**[Setup >>](./setup.md)**
+[Setup >>](./setup.md)
