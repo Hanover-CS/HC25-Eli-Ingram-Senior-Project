@@ -6,7 +6,7 @@
 
 
 ### Step 2: Download Initial Code & Assets
-- Download the provided files and open the "file_name_here" file as a New Project in WebStorm.
+- Download these [provided files](./assets.zip) and open the "file_name_here" file as a New Project in WebStorm.
 
 
 ### Step 3: Run & Test
