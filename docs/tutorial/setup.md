@@ -14,4 +14,4 @@
 - Notice that the character sprite is unresponsive to keyboard inputs, i.e. the sprite is stationary. This will make for a pretty boring platformer - we should add some functionality to enable keyboard inputs. 
 
 
-**[<< Index](./index.md) | [Enabling Keyboard Controls>>](./keyboard_controls.md)** 
+[<< Index](./index.md) | [Enabling Keyboard Controls>>](./keyboard_controls.md)
