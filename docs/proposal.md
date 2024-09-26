@@ -24,7 +24,7 @@ KittyQuest is a simple pixel-art-based platformer, in which the player embarks o
 ## Technology
 **IDE**
 WebStorm by IntelliJ: 
-WebStorm is an integrated development environment (IDE) by JetBrains. It includes everything necessary for JavaScript and TypeScript development, making it a practical choice for my project. IntelliJ, like WebStorm, is also made by JetBrains. In previous courses, I have utilized IntelliJ extensively so it makes sense to stick with an IDE similar to one I have experience with. 
+WebStorm (8) is an integrated development environment (IDE) by JetBrains. It includes everything necessary for JavaScript and TypeScript development, making it a practical choice for my project. IntelliJ, like WebStorm, is also made by JetBrains. In previous courses, I have utilized IntelliJ extensively so it makes sense to stick with an IDE similar to one I have experience with. 
 
 **Language**
 JavaScript:
@@ -53,10 +53,15 @@ In my research, I found that web applications are just easier and quicker to bui
 
 ## Similar Solutions
 1) Capybara Quest:
-Capybara Quest (1) is a web-based platformer game in which the user navigates through the map to collect the yuzu fruit. There are enemies present that, when interacted with too closely, will result in restarting the level. There is no capability to destroy enemies, as capybaras are peaceful creatures. I want to implement a similar system, in which players are unable to damage enemies, but enemies are able to hinder the player's progress. Capybara Quest also utilizes cute pixel art and a simple background/platform theme, making it simple and effective at setting a tone for the game. 
+Capybara Quest (1) is a web-based platformer game in which the user navigates through the map to collect the yuzu fruit. There are enemies present that, when interacted with too closely, will result in restarting the level. There is no capability to destroy enemies, as capybaras are peaceful creatures. I want to implement a similar system, in which players are unable to damage enemies, but enemies are able to hinder the player's progress. Capybara Quest also utilizes cute pixel art and a simple background/platform theme, making it simple and effective at setting a tone for the game.
 
-2) Le Chat Fonce:
-Le Chat Fonce (2) is another simple web-based platformer game. In this game, players explore the map to collect blue sprites and find various pieces of a key in order to move onto the next level. This game does not feature any enemies environmental hazards, giving it a focus on exploration and figuring out where all the necessary key pieces are. I want to implement some sort of an item for players to collect, similar to the sprites. I also want to implement some form of puzzle element, such as finding a specific item to move onto the next level. The lack of hazards and enemies makes for a simpler gameplay, but it is still enjoyable trying to find all the pieces of the keys throughout the somewhat complex maps. 
+<img width="667" alt="image of capybara next to yuzu fruit" src="https://github.com/user-attachments/assets/5a8febc4-9cff-4875-9fdd-c4a4b62975d7">
+
+
+3) Le Chat Fonce:
+Le Chat Fonce (2) is another simple web-based platformer game. In this game, players explore the map to collect blue sprites and find various pieces of a key in order to move onto the next level. This game does not feature any enemies environmental hazards, giving it a focus on exploration and figuring out where all the necessary key pieces are. I want to implement some sort of an item for players to collect, similar to the sprites. I also want to implement some form of puzzle element, such as finding a specific item to move onto the next level. The lack of hazards and enemies makes for a simpler gameplay, but it is still enjoyable trying to find all the pieces of the keys throughout the somewhat complex maps.
+
+<img width="815" alt="Screenshot 2024-09-26 at 1 56 16 PM" src="https://github.com/user-attachments/assets/793a117b-572f-46aa-b2e0-fe7d2f4eeff9">
 
 ## Sources
 1. Maxthetics, [Capybara Quest](https://www.coolmathgames.com/0-capybara-quest). CoolmathGames, Released: November 17, 2023
@@ -66,3 +71,5 @@ Le Chat Fonce (2) is another simple web-based platformer game. In this game, pla
 5. Phaser Studio Inc., ['Getting Started With Phaser3'](https://phaser.io/tutorials/getting-started-phaser3). Online: phaser.io
 6. Marc Spatafore, ['Game Programming in Phaser An in depth look at how frameworks are used'](https://soar.suny.edu/handle/20.500.12648/13213). Online: SUNY Open Access Repository, 2019
 7. Rodrigo Monteiro, ['The Guide to Implementing 2D Platformers'](https://www.gamedev.net/tutorials/programming/general-and-gameplay-programming/the-guide-to-implementing-2d-platformers-r2936/). Online: gamedev.net, April 4, 2013
+8. [WebStorm Documentation](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html) Online: JetBrains JavaScript WebStorm Documentation
+9. 
