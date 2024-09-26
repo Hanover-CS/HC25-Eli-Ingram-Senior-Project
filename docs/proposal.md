@@ -35,6 +35,9 @@ JavaScript is a very popular interpreted scripting language that is utilized by 
 Phaser: 
 An open-source, free framework that provides powerful and practical suites of game development tools. It is a very popular framework for game development in Javascript with a thriving online community, so it has ample documentation available. Phaser offers version control and project management tools, which help to streamline and optimize the development process. 
 
+**Assets**
+
+
 ### Alternative Technology
 **Language** 
 TypeScript: 
