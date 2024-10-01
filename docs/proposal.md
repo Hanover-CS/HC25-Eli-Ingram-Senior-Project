@@ -36,7 +36,8 @@ Phaser:
 An open-source, free framework that provides powerful and practical suites of game development tools. It is a very popular framework for game development in Javascript with a thriving online community, so it has ample documentation available. Phaser offers version control and project management tools, which help to streamline and optimize the development process. 
 
 **Assets**
-
+Cute Legends Heroes Sprite Pack (9) is an asset pack that includes 4 sprites, each with 10 animations. I like the pixel art style used and it matches the theme for KittyQuest. 
+I will also utilize free asset packs from Pixel Frog (10) for the background and tilesets. The asset packs also include sprites for enemies, which I will also utilize. 
 
 ### Alternative Technology
 **Language** 
@@ -71,5 +72,6 @@ Le Chat Fonce (2) is another simple web-based platformer game. In this game, pla
 5. Phaser Studio Inc., ['Getting Started With Phaser3'](https://phaser.io/tutorials/getting-started-phaser3). Online: phaser.io
 6. Marc Spatafore, ['Game Programming in Phaser An in depth look at how frameworks are used'](https://soar.suny.edu/handle/20.500.12648/13213). Online: SUNY Open Access Repository, 2019
 7. Rodrigo Monteiro, ['The Guide to Implementing 2D Platformers'](https://www.gamedev.net/tutorials/programming/general-and-gameplay-programming/the-guide-to-implementing-2d-platformers-r2936/). Online: gamedev.net, April 4, 2013
-8. [WebStorm Documentation](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html) Online: JetBrains JavaScript WebStorm Documentation
-9. 
+8. [WebStorm Documentation](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html). Online: JetBrains JavaScript WebStorm Documentation
+9. 9E0, ['Cute Legends Heroes](https://9e0.itch.io/cute-legends-cat-heroes).
+10. Pixel Frog, ['Pixel Frog Assets'](https://pixelfrog-assets.itch.io). 
