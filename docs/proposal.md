@@ -32,7 +32,7 @@ JavaScript is a very popular interpreted scripting language that is utilized by 
 
 
 **Libraries/Frameworks**
-Phaser: 
+Phaser (11): 
 An open-source, free framework that provides powerful and practical suites of game development tools. It is a very popular framework for game development in Javascript with a thriving online community, so it has ample documentation available. Phaser offers version control and project management tools, which help to streamline and optimize the development process. 
 
 **Assets**
@@ -74,4 +74,5 @@ Le Chat Fonce (2) is another simple web-based platformer game. In this game, pla
 7. Rodrigo Monteiro, ['The Guide to Implementing 2D Platformers'](https://www.gamedev.net/tutorials/programming/general-and-gameplay-programming/the-guide-to-implementing-2d-platformers-r2936/). Online: gamedev.net, April 4, 2013
 8. [WebStorm Documentation](https://www.jetbrains.com/help/webstorm/javascript-specific-guidelines.html). Online: JetBrains JavaScript WebStorm Documentation
 9. 9E0, ['Cute Legends Heroes](https://9e0.itch.io/cute-legends-cat-heroes).
-10. Pixel Frog, ['Pixel Frog Assets'](https://pixelfrog-assets.itch.io). 
+10. Pixel Frog, ['Pixel Frog Assets'](https://pixelfrog-assets.itch.io).
+11. Phaser Studio Inc., ['Phaser3 API Documentation](https://newdocs.phaser.io/docs/3.85.2). 
