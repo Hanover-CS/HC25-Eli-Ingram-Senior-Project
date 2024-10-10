@@ -7,7 +7,6 @@ This tutorial is meant to teach readers how to set up alternative input style fo
 * Install Phaser on the WebStorm IDE
 * Utilize provided code and assets to initialize game elements
 * Write code to allow keyboard input from users
-* Write alternative code to allow mouse input
 
 ### Objectives for Additional Exercises 
 * Add additional game elements (sprites)
