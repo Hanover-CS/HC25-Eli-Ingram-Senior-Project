@@ -4,4 +4,4 @@
 ## Extra Features
 
 
-[<< Enabling Mouse Controls](./mouse_controls.md)
+[<< Enabling Keyboard Controls](./keyboard_controls.md)
