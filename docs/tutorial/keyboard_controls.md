@@ -14,4 +14,4 @@ This creates a cursor object and populates it with up, down, left, and right obj
 
 
 
-[<< Setup](./setup.md) | [Enabling Mouse Controls >>](./mouse_controls.md)
+[<< Setup](./setup.md) | [Additional Features >>](./conclusion.md)
