@@ -18,5 +18,9 @@ This tutorial is meant to teach readers how to set up keyboard inputs for a basi
 * Basic understanidng of how to use an IDE
 * Completion of [Getting Started with Phaser 3](https://phaser.io/tutorials/getting-started-phaser3/)
 
+### See Also
+[Phaser Documentation](https://newdocs.phaser.io/docs/3.85.2)
+[JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 [Setup >>](./setup.md)
