@@ -6,7 +6,7 @@
 
 
 ### Step 2: Download Initial Code & Assets
-- Download these [provided files](./assets.zip) and open the "phaser3-tutorial-src" file as a New Project in WebStorm.
+- Download these [provided files](./assets_tut.zip) and open the "phaser3-tutorial-src" file as a New Project in WebStorm.
 
 
 ### Step 3: Run & Test
