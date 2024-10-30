@@ -7,7 +7,7 @@ Now that we have the basis of the game in place, we need to be able to move our 
 
 
 
-This creates a cursor object and populates it with up, down, left, and right object properties. 
+This creates a cursor object and populates it with up, down, left, and right object properties. For more information on keyboard inputs in Phaser 3, refer to this doocumentation: [Phaser Keyboard Input Documentation](https://docs.phaser.io/phaser/concepts/input#keyboard-input)
 
 1. Within the update() function, we need to add code to move the player horizontally.
 
