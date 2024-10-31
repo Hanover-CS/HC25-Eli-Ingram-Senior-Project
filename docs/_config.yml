@@ -2,6 +2,7 @@ title: Eli's Senior Project
 Description: The next best cat-based platformer web game.
 lsi: false
 safe: true
+baseurl: "/HC25-Eli-Ingram-Senior-Project/docs/"
 incremental: false
 highlighter: rouge
 gist:
