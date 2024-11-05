@@ -9,7 +9,7 @@ export class MainMenu extends Scene
 
     create ()
     {
-        this.add.image(512, 384, 'background').setSizeToFrame(true);
+        this.add.image(512, 384, 'background');
 
         let playButton = this.add.image(512, 275, 'playButton');
 
