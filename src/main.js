@@ -1,5 +1,5 @@
 import { Boot } from './scenes/Boot.js';
-//import { Level1 } from './scenes/Level1.js';
+import { Level0 } from './scenes/Level0.js';
 import { Game } from './scenes/Game.js';
 import { GameOver } from './scenes/GameOver.js';
 import { MainMenu } from './scenes/MainMenu.js';
@@ -21,7 +21,7 @@ const config = {
         Boot,
         Preloader,
         MainMenu,
-        //Level1,
+        Level0,
         Game,
         GameOver
     ],

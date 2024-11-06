@@ -17,7 +17,7 @@ export class MainMenu extends Scene
 
         playButton.setInteractive();
         playButton.once('pointerdown', () => {
-            this.scene.start('Game');
+            this.scene.start('Level0');
         })
 
         optionsButton.setInteractive();

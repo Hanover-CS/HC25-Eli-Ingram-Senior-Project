@@ -1,0 +1,110 @@
+{ "compressionlevel":-1,
+ "height":8,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[21, 22, 22, 22, 22, 22, 22, 23,
+            40, 41, 41, 41, 41, 41, 41, 42,
+            40, 41, 41, 41, 41, 41, 41, 42,
+            40, 41, 41, 41, 41, 41, 41, 42,
+            40, 41, 41, 41, 41, 41, 41, 42,
+            40, 41, 41, 41, 41, 41, 41, 42,
+            40, 41, 41, 41, 41, 41, 41, 42,
+            59, 60, 60, 60, 60, 60, 60, 61],
+         "height":8,
+         "id":1,
+         "name":"Platforms",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":4,
+         "name":"Object Layer 1",
+         "objects":[
+                {
+                 "height":32,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":455.317829457364,
+                 "y":304.372093023256
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":5,
+ "nextobjectid":10,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.11.0",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":19,
+         "firstgid":1,
+         "image":"Terrain (32x32).png",
+         "imageheight":416,
+         "imagewidth":608,
+         "margin":0,
+         "name":"k&p_tileset",
+         "spacing":0,
+         "tilecount":247,
+         "tileheight":32,
+         "tilewidth":32,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"Unnamed Set",
+                 "tile":-1,
+                 "type":"edge",
+                 "wangtiles":[]
+                }]
+        }, 
+        {
+         "columns":7,
+         "firstgid":248,
+         "image":"Decorations (32x32).png",
+         "imageheight":192,
+         "imagewidth":224,
+         "margin":0,
+         "name":"k&p_decor",
+         "spacing":0,
+         "tilecount":42,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":290,
+         "image":"Idle_Door.png",
+         "imageheight":56,
+         "imagewidth":46,
+         "margin":0,
+         "name":"k&p_door",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":56,
+         "tilewidth":46
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.10",
+ "width":8
+}

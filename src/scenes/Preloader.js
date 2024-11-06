@@ -6,7 +6,7 @@ export class Preloader extends Scene
     {
         super('Preloader');
     }
-
+G
     init ()
     {
         //  We loaded this image in our Boot Scene, so we can display it here
