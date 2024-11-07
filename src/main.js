@@ -27,7 +27,11 @@ const config = {
     ],
     render: {
         pixelArt : true
-    }
+    },
+    physics: {
+        default: 'arcade'
+    },
 };
+
 
 export default new Phaser.Game(config);

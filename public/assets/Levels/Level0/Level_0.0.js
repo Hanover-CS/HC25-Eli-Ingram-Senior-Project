@@ -1,3 +1,6 @@
+import { Scene } from 'phaser';
+
+export class MainMenu extends Scene
 (function(name,data){
  if(typeof onTileMapLoaded === 'undefined') {
   if(typeof TileMaps === 'undefined') TileMaps = {};
@@ -91,7 +94,7 @@
         }, 
         {
          "firstgid":248,
-         "source":"kp_decor.tsx"
+         "source":"k&p_decor.tsx"
         }, 
         {
          "firstgid":290,
@@ -101,4 +104,4 @@
  "type":"map",
  "version":"1.10",
  "width":8
-});
+}) {}

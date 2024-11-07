@@ -32,10 +32,13 @@ G
         //  Load the assets for the game - Replace with your own assets
         this.load.setPath('assets');
 
-        this.load.image('logo', 'logo.png');
         this.load.image('background', 'bg.png');
         this.load.image('playButton', 'play_button.png');
         this.load.image('optionsButton', 'options_button.png');
+
+        this.load.spritesheet('idle','Kings and Pigs/Sprites/01-King Human/Idle (78x58).png', {frameWidth: 78, frameHeight: 58});
+        this.load.spritesheet('run', 'Kings and Pigs/Sprites/01-King Human/Run (78x58).png', {frameWidth: 78, frameHeight: 58});
+        this.load.spritesheet('jump', 'Kings and Pigs/Sprites/01-King Human/Jump (78x58).png', {frameWidth: 78, frameHeight: 58});
     }
 
     create ()

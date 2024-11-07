@@ -22,6 +22,16 @@
          "y":0
         }, 
         {
+         "id":5,
+         "image":"",
+         "name":"Image Layer 1",
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":4,
          "name":"Object Layer 1",
@@ -36,6 +46,224 @@
                  "width":32,
                  "x":455.317829457364,
                  "y":304.372093023256
+                }, 
+                {
+                 "gid":281,
+                 "height":32,
+                 "id":11,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":191.793028537573,
+                 "y":96.3870840327836
+                }, 
+                {
+                 "gid":274,
+                 "height":32,
+                 "id":12,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":192.298607682433,
+                 "y":64.0300187617261
+                }, 
+                {
+                 "gid":273,
+                 "height":32,
+                 "id":13,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":159.941542411376,
+                 "y":64.0300187617261
+                }, 
+                {
+                 "gid":280,
+                 "height":32,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":160.447121556236,
+                 "y":96.3870840327836
+                }, 
+                {
+                 "gid":278,
+                 "height":32,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":64.3870840327837,
+                 "y":95.8815048879234
+                }, 
+                {
+                 "gid":271,
+                 "height":32,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":64.3870840327836,
+                 "y":63.0188604720055
+                }, 
+                {
+                 "gid":272,
+                 "height":32,
+                 "id":17,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":97.2497284487015,
+                 "y":63.5244396168658
+                },
+            
+                {
+                 "gid":279,
+                 "height":32,
+                 "id":18,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":97.2497284487015,
+                 "y":95.8815048879234
+                }, 
+                {
+                 "gid":277,
+                 "height":32,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":73.4875086402686,
+                 "y":114.587933247754
+                }, 
+                {
+                 "gid":277,
+                 "height":32,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":170.053125308581,
+                 "y":114.587933247754
+                }, 
+                {
+                 "gid":256,
+                 "height":32,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":127.584477140318,
+                 "y":64.0300187617261
+                }, 
+                {
+                 "gid":263,
+                 "height":32,
+                 "id":23,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":128.090056285178,
+                 "y":94.8703465982028
+                }, 
+                {
+                 "gid":263,
+                 "height":32,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":128.090056285178,
+                 "y":95.3759257430631
+                }, 
+                {
+                 "gid":263,
+                 "height":32,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":127.078897995458,
+                 "y":94.8703465982028
+                }, 
+                {
+                 "gid":263,
+                 "height":32,
+                 "id":26,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":127.584477140318,
+                 "y":95.8815048879234
+                },
+            
+                {
+                 "gid":263,
+                 "height":32,
+                 "id":27,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":127.584477140318,
+                 "y":95.8815048879234
+                }, 
+                {
+                 "gid":270,
+                 "height":32,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":128.090056285178,
+                 "y":127.22741186926
+                }, 
+                {
+                 "gid":291,
+                 "height":56,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":46,
+                 "x":184.793028537573,
+                 "y":233.770711958132
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -43,8 +271,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":5,
- "nextobjectid":10,
+ "nextlayerid":6,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
@@ -101,6 +329,44 @@
          "spacing":0,
          "tilecount":1,
          "tileheight":56,
+         "tilewidth":46
+        }, 
+        {
+         "columns":5,
+         "firstgid":291,
+         "image":"..\/..\/Kings and Pigs\/Sprites\/11-Door\/Opening (46x56).png",
+         "imageheight":56,
+         "imagewidth":230,
+         "margin":0,
+         "name":"Door_Opening ",
+         "spacing":0,
+         "tilecount":5,
+         "tileheight":56,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":170,
+                         "tileid":0
+                        }, 
+                        {
+                         "duration":170,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":170,
+                         "tileid":2
+                        }, 
+                        {
+                         "duration":170,
+                         "tileid":3
+                        }, 
+                        {
+                         "duration":170,
+                         "tileid":4
+                        }],
+                 "id":0
+                }],
          "tilewidth":46
         }],
  "tilewidth":32,

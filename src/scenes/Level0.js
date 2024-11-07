@@ -1,4 +1,5 @@
 import { Scene } from 'phaser';
+import { Player } from '../classes/Player.js'
 
 export class Level0 extends Scene
 {
@@ -27,6 +28,25 @@ export class Level0 extends Scene
         const tilesetDecor = map.addTilesetImage('k&p_decor', 'decor');
 
         const layer = map.createLayer('Platforms', tilesetTerrain);
-        const doorLayer = map.createLayer('Object Layer 1', tilesetDoor)
+        //const doorLayer = map.createLayer('Object Layer 1', tilesetDoor)
+
+        this.player = new Player(this, 50, 220);
+        this.cursors = this.input.keyboard.createCursorKeys();
     }
+
+    update() {
+        if (this.cursors.left.isDown) {
+            this.player.moveLeft();
+        }
+        if (this.cursors.right.isDown) {
+            this.player.moveRight();
+        }
+        else {
+            this.player.idle();
+        }
+        if (this.cursors.up.isDown && this.body.touching.down) {
+            this.player.fall();
+        }
+    }
+
 }
