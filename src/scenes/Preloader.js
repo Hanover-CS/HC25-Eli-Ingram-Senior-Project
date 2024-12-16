@@ -1,52 +1,70 @@
+/**
+ * Preloader class handles the loading of game assets and displays a loading bar.
+ * Once assets are loaded, it transitions to the Main Menu scene.
+ */
 import { Scene } from 'phaser';
 
-export class Preloader extends Scene
-{
-    constructor ()
-    {
+export class Preloader extends Scene {
+    /**
+     * Constructor to initialize the Preloader scene.
+     */
+    constructor() {
         super('Preloader');
     }
-G
-    init ()
-    {
-        //  We loaded this image in our Boot Scene, so we can display it here
+
+    /**
+     * Initializes the loading screen with a background and a progress bar.
+     * Sets up the loader's progress event to update the progress bar.
+     */
+    init() {
+        // Display background image
         this.add.image(512, 384, 'background');
 
-        //  A simple progress bar. This is the outline of the bar.
+        // Add the outline of the progress bar
         this.add.rectangle(512, 384, 468, 32).setStrokeStyle(1, 0xffffff);
 
-        //  This is the progress bar itself. It will increase in size from the left based on the % of progress.
-        const bar = this.add.rectangle(512-230, 384, 4, 28, 0xffffff);
+        // Create the progress bar and position it
+        const progressBar = this.add.rectangle(512 - 230, 384, 4, 28, 0xffffff);
 
-        //  Use the 'progress' event emitted by the LoaderPlugin to update the loading bar
+        // Update the progress bar width based on loading progress
         this.load.on('progress', (progress) => {
-
-            //  Update the progress bar (our bar is 464px wide, so 100% = 464px)
-            bar.width = 4 + (460 * progress);
-
+            progressBar.width = 4 + (460 * progress); // Update width relative to progress
         });
     }
 
-    preload ()
-    {
-        //  Load the assets for the game - Replace with your own assets
+    /**
+     * Preloads the assets required for the game.
+     */
+    preload() {
+        // Set the path for asset loading
         this.load.setPath('assets');
 
+        // Load general assets
         this.load.image('background', 'bg.png');
         this.load.image('playButton', 'play_button.png');
         this.load.image('optionsButton', 'options_button.png');
 
-        this.load.spritesheet('idle','Kings and Pigs/Sprites/01-King Human/Idle (78x58).png', {frameWidth: 78, frameHeight: 58});
-        this.load.spritesheet('run', 'Kings and Pigs/Sprites/01-King Human/Run (78x58).png', {frameWidth: 78, frameHeight: 58});
-        this.load.spritesheet('jump', 'Kings and Pigs/Sprites/01-King Human/Jump (78x58).png', {frameWidth: 78, frameHeight: 58});
+        // Load player spritesheets
+        this.load.spritesheet('idle', 'Kings and Pigs/Sprites/01-King Human/Idle (78x58).png', {
+            frameWidth: 78,
+            frameHeight: 58
+        });
+        this.load.spritesheet('run', 'Kings and Pigs/Sprites/01-King Human/Run (78x58).png', {
+            frameWidth: 78,
+            frameHeight: 58
+        });
+        this.load.spritesheet('jump', 'Kings and Pigs/Sprites/01-King Human/Jump (78x58).png', {
+            frameWidth: 78,
+            frameHeight: 58
+        });
     }
 
-    create ()
-    {
-        //  When all the assets have loaded, it's often worth creating global objects here that the rest of the game can use.
-        //  For example, you can define global animations here, so we can use them in other scenes.
-
-        //  Move to the MainMenu. You could also swap this for a Scene Transition, such as a camera fade.
+    /**
+     * Called after all assets have been loaded.
+     * Sets up any global configurations or objects and transitions to the MainMenu.
+     */
+    create() {
+        // Transition to the MainMenu scene
         this.scene.start('MainMenu');
     }
 }
